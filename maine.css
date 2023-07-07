@@ -1,5 +1,7 @@
 #awaw {font-size:65px; 
-   ;
+background-color:red;
+   display: inline;
+   margin-bottom: 50px;
 }
 .aeae{
     background-color: blue;
@@ -9,3 +11,7 @@
 tr{background-color: rgb(146, 182, 216); 
 font-size: 20px;
 }
+#acax{color: rgb(0, 255, 200);
+font-size: 45px;
+}
+table{height: 2000px;}
