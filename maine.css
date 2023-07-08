@@ -4,14 +4,14 @@ background-color:red;
    margin-bottom: 50px;
 }
 .aeae{
-    background-color: blue;
+    background-color: rgb(0, 204, 255);
     font-size: 23px;
 }
 .eaea{background-color: ;}
-tr{background-color: rgb(146, 182, 216); 
+tr{background-color: rgb(86, 169, 247); 
 font-size: 20px;
 }
-#acax{color: rgb(0, 255, 200);
+#acax{color: rgb(18, 247, 56);
 font-size: 50px;
 }
 table{height: 2000px;}
