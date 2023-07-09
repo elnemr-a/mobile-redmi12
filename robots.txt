@@ -1,2 +1,7 @@
+User-agent: Googlebot
+allow: /
+
 User-agent: *
 Allow: /
+
+Sitemap: https://elnemr-a.github.io/mobile-redmi12//sitemap.xml
