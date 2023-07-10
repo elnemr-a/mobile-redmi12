@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: https://elnemr-a.github.io/mobile-redmi12//sitemap.xml
